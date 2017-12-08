@@ -1,0 +1,1 @@
+git+git://github.com/delton137/py-etherscan-api.git
